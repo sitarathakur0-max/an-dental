@@ -1,0 +1,6 @@
+{
+  "name": "AN Dental Surgery",
+  "description": "Professional dental care website for AN Dental Surgery located in DHA Phase 2, Lahore, Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
